@@ -5,7 +5,7 @@
     <?php
     $name = $_POST["name"];
     $age = $_POST["age"];
-    $status = $_POST["status"]
+    $status = $_POST["status"];
 
     echo "Name:" . $name . "<br>";
     echo "Age:" . $age . "<br>";
