@@ -3,6 +3,7 @@
 <body>
 
 <form action="show.php" method="post">
+    what is your Mr or Ms:<input type="text" name="Mr or Ms"><br>
     what is your name:<input type="text" name="name"><br>
     what is your age:<input type="text" name="age"><br>
     what is your sex:<intput type="text" name="sex"><br>
