@@ -3,13 +3,13 @@
 
 <body>
     <?php
-    $mr or ms = $_POST["mr or ms"];
+    $MRorMS = $_POST["MRorMS"];
     $name = $_POST["name"];
     $age = $_POST["age"];
     $sex = $_POST["sex"];
     $status = $_POST["status"];
 
-    echo "Mr or Ms" . $Mr or Ms . "<br>";
+    echo "MRorMS" . $MRorMS . "<br>";
     echo "Name:" . $name . "<br>";
     echo "Age:" . $age . "<br>";
     echo "Sex:" . $sex . "<br>";
