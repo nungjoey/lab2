@@ -6,7 +6,7 @@
     what is your MRorMS:<input type="text" name="MRorMS"><br>
     what is your name:<input type="text" name="name"><br>
     what is your age:<input type="text" name="age"><br>
-    what is your sex:<intput type="text" name="sex"><br>
+    what is your sex:<input type="text" name="sex"><br>
     what is your status:<input type="text" name="status"><br>
     <input type="submit" value="Submit">
 </form>
